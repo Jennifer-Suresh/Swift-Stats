@@ -1,3 +1,4 @@
+</> Markdown
 # Swift-Stats
 Swift Stats provides Python workflows for reading, cleaning and
 compiling qPCR and confocal microscopy data.
