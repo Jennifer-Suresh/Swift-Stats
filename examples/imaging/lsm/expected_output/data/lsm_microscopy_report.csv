@@ -1,9 +1,9 @@
 Filename,File_Type,Status,Notes,Primary_Channel,Secondary_Channel,DAPI_Channel,GFP_Channel,mCherry_Channel,Threshold,mCherry_SNR,GFP_SNR,DAPI_SNR,Channel_A_Positive_Pixels,Channel_B_Positive_Pixels,Overlap_Pixels,Union_Pixels,Overlay_Percentage,A_Overlap_Percentage,B_Overlap_Percentage
-del nt2 del cbd 1.lsm,LSM,Processed,Success,mCherry,GFP,3.0,2.0,1.0,0.1,21.1053,7.5662,7.5843,18460.0,77784.0,17712.0,78532.0,22.5539,95.948,22.7707
-mkp5 sting.lsm,LSM,Processed,Success,mCherry,GFP,3.0,2.0,1.0,0.1,11.9202,14.6945,3.6525,32878.0,40551.0,24104.0,49325.0,48.8677,73.3135,59.4412
-mkp5 sting2.lsm,LSM,Processed,Success,mCherry,GFP,3.0,2.0,1.0,0.1,14.0459,6.4941,8.602,27280.0,95957.0,22388.0,100849.0,22.1995,82.0674,23.3313
-mkp5 sting3.lsm,LSM,Processed,Success,mCherry,GFP,3.0,2.0,1.0,0.1,19.8489,8.3785,11.0082,22618.0,52652.0,16891.0,58379.0,28.9333,74.6795,32.0805
-mkp5 sting4.lsm,LSM,Processed,Success,mCherry,GFP,3.0,2.0,1.0,0.1,11.7187,11.927,10.5976,23955.0,32300.0,15978.0,40277.0,39.6703,66.7001,49.4675
-mkp5 sting5.lsm,LSM,Processed,Success,mCherry,GFP,3.0,2.0,1.0,0.1,16.9635,9.2695,8.6399,23607.0,65756.0,22857.0,66506.0,34.3683,96.823,34.7603
-mkp5 sting6.lsm,LSM,Failed,"Projected image has 2 channels, but channel index 2 was requested.",,,,,,,,,,,,,,,,
-mkp5 sting7.lsm,LSM,Processed,Success,mCherry,GFP,3.0,2.0,1.0,0.1,8.2843,8.9289,6.7053,46692.0,68004.0,34171.0,80525.0,42.4353,73.1838,50.2485
+lsm_example_01.lsm,LSM,Processed,Success,mCherry,GFP,3.0,2.0,1.0,0.1,21.1053,7.5662,7.5843,18460.0,77784.0,17712.0,78532.0,22.5539,95.948,22.7707
+lsm_example_02.lsm,LSM,Processed,Success,mCherry,GFP,3.0,2.0,1.0,0.1,11.9202,14.6945,3.6525,32878.0,40551.0,24104.0,49325.0,48.8677,73.3135,59.4412
+lsm_example_03.lsm,LSM,Processed,Success,mCherry,GFP,3.0,2.0,1.0,0.1,14.0459,6.4941,8.602,27280.0,95957.0,22388.0,100849.0,22.1995,82.0674,23.3313
+lsm_example_04.lsm,LSM,Processed,Success,mCherry,GFP,3.0,2.0,1.0,0.1,19.8489,8.3785,11.0082,22618.0,52652.0,16891.0,58379.0,28.9333,74.6795,32.0805
+lsm_example_05.lsm,LSM,Processed,Success,mCherry,GFP,3.0,2.0,1.0,0.1,11.7187,11.927,10.5976,23955.0,32300.0,15978.0,40277.0,39.6703,66.7001,49.4675
+lsm_example_06.lsm,LSM,Processed,Success,mCherry,GFP,3.0,2.0,1.0,0.1,16.9635,9.2695,8.6399,23607.0,65756.0,22857.0,66506.0,34.3683,96.823,34.7603
+lsm_example_07.lsm,LSM,Failed,"Projected image has 2 channels, but channel index 2 was requested.",,,,,,,,,,,,,,,,
+lsm_example_08.lsm,LSM,Processed,Success,mCherry,GFP,3.0,2.0,1.0,0.1,8.2843,8.9289,6.7053,46692.0,68004.0,34171.0,80525.0,42.4353,73.1838,50.2485
