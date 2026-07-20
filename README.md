@@ -10,6 +10,10 @@ compiling qPCR and confocal microscopy data.
 - Applied Biosystems 7500 Fast
 - Mixed QS5 and 7500 Fast folder compilation
 
+## Downstream examples
+
+- [qPCR data cleanup, compilation and JMP analysis](downstream_examples/qpcr_summary/qpcr_data_cleanup_compilation_jmp_analysis.pdf)
+
 ### Confocal imaging
 - Zeiss LSM
 - Olympus OIR
