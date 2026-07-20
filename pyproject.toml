@@ -1,0 +1,31 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "swift-stats"
+version = "0.1.0"
+description = "Python tools for compiling qPCR data and processing confocal microscopy files."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { file = "LICENSE" }
+
+authors = [
+    { name = "Jennifer Suresh" }
+]
+
+dependencies = [
+    "numpy",
+    "pandas",
+    "openpyxl",
+    "xlrd>=2.0.1",
+    "tifffile",
+    "oirfile",
+    "matplotlib",
+    "python-pptx"
+]
+
+
+[tool.setuptools.packages.find]
+where = ["src"]
+

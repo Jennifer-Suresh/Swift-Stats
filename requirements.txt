@@ -1,0 +1,9 @@
+pandas
+numpy
+openpyxl
+xlrd>=2.0.1
+tifffile
+oirfile
+matplotlib
+python-pptx
+pytest

@@ -1,0 +1,9 @@
+Filename,File_Type,Status,Notes,Primary_Channel,Secondary_Channel,DAPI_Channel,GFP_Channel,Mitotracker_Channel,Threshold,GFP_SNR,Mitotracker_SNR,DAPI_SNR,Channel_A_Positive_Pixels,Channel_B_Positive_Pixels,Overlap_Pixels,Union_Pixels,Overlay_Percentage,A_Overlap_Percentage,B_Overlap_Percentage
+mkp7 bax cis 24hr 1.oir,OIR,Processed,Success,GFP,Mitotracker,1.0,2.0,3.0,0.1,4.928,11.0267,4.9384,318399.0,156573.0,62890.0,412082.0,15.2615,19.7519,40.1666
+mkp7 bax cis 24hr 1_0002.oir,OIR,Failed,"Projected image has 1 channels, but channel index 2 was requested.",,,,,,,,,,,,,,,,
+mkp7 bax cis 24hr 3_0001.oir,OIR,Processed,Success,GFP,Mitotracker,1.0,2.0,3.0,0.1,3.0621,8.4812,4.3901,495533.0,216409.0,75713.0,636229.0,11.9003,15.2791,34.9861
+mkp7 cis 24hr 1.oir,OIR,Processed,Success,GFP,Mitotracker,1.0,2.0,3.0,0.1,5.8832,6.4878,5.2244,350310.0,258718.0,81098.0,527930.0,15.3615,23.1504,31.3461
+mkp7 cis 24hr 3.oir,OIR,Processed,Success,GFP,Mitotracker,1.0,2.0,3.0,0.1,6.4008,6.3791,5.7256,324726.0,281418.0,67291.0,538853.0,12.4878,20.7224,23.9114
+mkp7control 2.oir,OIR,Processed,Success,GFP,Mitotracker,1.0,2.0,3.0,0.1,8.3164,9.2079,6.6406,250282.0,207301.0,65676.0,391907.0,16.7581,26.2408,31.6815
+vec bax cis 24hr 3.oir,OIR,Processed,Success,GFP,Mitotracker,1.0,2.0,3.0,0.1,4.7526,6.2938,4.8162,373797.0,291872.0,51494.0,614175.0,8.3843,13.7759,17.6427
+vec cis 24hr 2.oir,OIR,Processed,Success,GFP,Mitotracker,1.0,2.0,3.0,0.1,7.041,8.5478,4.1585,303791.0,261411.0,54946.0,510256.0,10.7683,18.0868,21.019

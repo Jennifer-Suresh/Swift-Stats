@@ -1,0 +1,46 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Testing and coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Build output
+build/
+dist/
+*.egg-info/
+
+# IDE settings
+.idea/
+.vscode/
+
+# Excel temporary files
+~$*.xlsx
+~$*.xls
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+
+# Local outputs not intended for publication
+results/
+output/
+temp/
+tmp/
+
+# Confidential or private data
+private_data/
+raw_private_data/
+
+# Credentials and environment settings
+.env
+.env.*
+!.env.example
